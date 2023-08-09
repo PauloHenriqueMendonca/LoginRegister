@@ -1,0 +1,7 @@
+.git/
+.vs/
+RegistrationAndLogin/bin
+RegistrationAndLogin/.vs
+RegistrationAndLogin/obj
+RegistrationAndLogin/packages
+RegistrationAndLogin/fonts
